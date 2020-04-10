@@ -1,4 +1,4 @@
-from spirograph import TriangleSpirograph 
+from Spirograph import TriangleSpirograph 
 
 def reset():
     global spiro
